@@ -58,7 +58,7 @@ class _LifePointListTile extends StatelessWidget {
       constraints: BoxConstraints(minHeight: 36.h),
       child: IntrinsicHeight(
         child: Row(
-          crossAxisAlignment: CrossAxisAlignment.start,
+          crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
             Expanded(

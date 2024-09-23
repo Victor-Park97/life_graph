@@ -127,7 +127,7 @@ class _UpdateLifePointTextField extends StatelessWidget {
               ),
               border: const OutlineInputBorder(),
             ),
-            keyboardType: onlyNumber ? TextInputType.number : TextInputType.text,
+            keyboardType: TextInputType.text,
           ),
           if (validCheck != null)
             Obx(() => validCheck!.value
