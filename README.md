@@ -8,5 +8,7 @@ components를 분리하여 추후에 코드 재사용성을 높였습니다
 firebase hosting으로 배포하였습니다
 
 샘플 이미지
-![image](https://github.com/user-attachments/assets/f058406b-d328-4b0d-b92b-c1a9e5495f46)
+
 ![image](https://github.com/user-attachments/assets/44482d89-ccc9-4aec-937e-4ad6868ea961)
+![image](https://github.com/user-attachments/assets/f058406b-d328-4b0d-b92b-c1a9e5495f46)
+
