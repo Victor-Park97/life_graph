@@ -3,9 +3,11 @@
 한번쯤은 해본 인생 그래프 그리기를 web으로 만들어 보았습니다
 https://life-graph-92999.web.app/
 
-상태관리는 getX를 사용하였으며 MVVM 패턴을 사용하였습니다
-components를 분리하여 추후에 코드 재사용성을 높였습니다
-firebase hosting으로 배포하였습니다
+상태관리는 getX를 사용하였으며 MVVM 패턴을 사용하였습니다.
+
+components를 분리하여 추후에 코드 재사용성을 높였습니다.
+
+firebase hosting으로 배포하였습니다.
 
 샘플 이미지
 
